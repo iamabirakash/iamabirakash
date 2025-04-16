@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON,JAVA,REACT,TAILWIND.**
 
-- 📫 How to reach me **abir030204@gmail.com**
+- 📫 How to reach me **abirakashbora@gmail.com**
 
 - 📄 Know about my experiences [https://abirakash.netlify.app/ABIRRESUMEFINAL.pdf](https://abirakash.netlify.app/ABIRRESUMEFINAL.pdf)
 

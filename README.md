@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Akash Bora</h1>
-<h3 align="center">A passionate frontend developer from India. A First year B.Tech CSE student with a deep passion for technology. Eagerly exploring the ever-evolving world of tech, enthusiastic about leveraging innovative solutions to solve real-world challenges. Fueled by a deep passion for technology which helps me in exploring the ever-evolving world of technology. I, Abir Akash Bora, looks forward towards making more connections and grow together</h3>
+<h3 align="center">A passionate frontend developer from India. A Third year B.Tech CSE student with a deep passion for technology. Eagerly exploring the ever-evolving world of tech, enthusiastic about leveraging innovative solutions to solve real-world challenges. Fueled by a deep passion for technology which helps me in exploring the ever-evolving world of technology. I, Abir Akash Bora, looks forward towards making more connections and grow together</h3>
 
 - 🌱 I’m currently learning **MERN**
 

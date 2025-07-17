@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abirakashbora@gmail.com**
 
-- 📄 Know about my experiences [https://abirakash.netlify.app/ABIRRESUMEFINAL.pdf]([https://abirakash.netlify.app/ABIRRESUMEFINAL.pdf](https://abirakash.netlify.app/resume.pdf))
+- 📄 Know about my experiences [https://abirakash.netlify.app/ABIRRESUMEFINAL.pdf](https://abirakash.netlify.app/resume.pdf)
 
 - ⚡ Fun fact **Love to play Football and watch movies.**
 
